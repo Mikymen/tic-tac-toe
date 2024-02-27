@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2024/02/23 16:51:10.804,=C:\Users\Miguel Mendieta\OneDrive\Documentos\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2024/02/23 16:51:10.904,=C:\Users\Miguel Mendieta\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2024/02/23 16:55:07.398,D:\PROYECTOS\C++ Builder\TicTacToe\Unit1.dfm=C:\Users\Miguel Mendieta\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2024/02/23 16:55:07.398,D:\PROYECTOS\C++ Builder\TicTacToe\Unit1.h=C:\Users\Miguel Mendieta\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.h</Transaction>
+    <Transaction>2024/02/23 16:55:07.398,D:\PROYECTOS\C++ Builder\TicTacToe\Unit1.cpp=C:\Users\Miguel Mendieta\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2024/02/26 11:13:35.741,=C:\Users\Miguel Mendieta\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit2.cpp</Transaction>
+    <Transaction>2024/02/26 11:16:15.575,D:\PROYECTOS\C++ Builder\TicTacToe\Unit2.cpp=C:\Users\Miguel Mendieta\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit2.cpp</Transaction>
+    <Transaction>2024/02/26 11:16:15.575,D:\PROYECTOS\C++ Builder\TicTacToe\Unit2.h=C:\Users\Miguel Mendieta\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit2.h</Transaction>
+    <Transaction>2024/02/26 12:31:04.276,D:\PROYECTOS\C++ Builder\TicTacToe\Project1.cbproj=C:\Users\Miguel Mendieta\OneDrive\Documentos\Embarcadero\Studio\Projects\Project1.cbproj</Transaction>
+  </Transactions>
+</BorlandProject>
